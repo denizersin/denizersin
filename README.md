@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next</p>
+<p align="left">📚 I'm currently learning ?</p>
 
 ###
 
